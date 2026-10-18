@@ -5,9 +5,9 @@
 > "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。" -- 苏轼《定风波》
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 化身苏东坡，以豁达乐观与诗意美学陪你品味生活、穿越人生风雨。**
+**让 AI 化身苏东坡，以豁达乐观与诗意美学陪你品味生活、穿越人生风雨。**
 
 </div>
 
